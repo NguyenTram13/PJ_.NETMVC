@@ -1,0 +1,713 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProjectFirst.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjectFirst.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\css\\material-dashboard.css",
+      "PackagePath": "staticwebassets\\css\\material-dashboard.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\css\\material-dashboard.css.map",
+      "PackagePath": "staticwebassets\\css\\material-dashboard.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\css\\material-dashboard.min.css",
+      "PackagePath": "staticwebassets\\css\\material-dashboard.min.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\bg-pricing.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-pricing.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\bg-smart-home-1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-smart-home-1.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\bg-smart-home-2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-smart-home-2.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\drake.jpg",
+      "PackagePath": "staticwebassets\\img\\drake.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\illustrations\\chat.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\chat.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\illustrations\\danger-chat-ill.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\danger-chat-ill.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\illustrations\\dark-lock-ill.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\dark-lock-ill.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\illustrations\\error-404.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\error-404.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\illustrations\\error-500.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\error-500.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\illustrations\\illustration-lock.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-lock.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\illustrations\\illustration-reset.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-reset.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\illustrations\\illustration-signin.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-signin.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\illustrations\\illustration-signup.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-signup.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\illustrations\\illustration-verification.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-verification.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\illustrations\\lock.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\lock.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\illustrations\\pattern-tree.svg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\pattern-tree.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\ivana-squares.jpg",
+      "PackagePath": "staticwebassets\\img\\ivana-squares.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\logos\\gray-logos\\logo-coinbase.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-coinbase.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\logos\\gray-logos\\logo-nasa.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-nasa.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\logos\\gray-logos\\logo-netflix.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-netflix.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\logos\\gray-logos\\logo-pinterest.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-pinterest.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\logos\\gray-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\logos\\gray-logos\\logo-vodafone.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-vodafone.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\img\\marie.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\meeting.jpg",
+      "PackagePath": "staticwebassets\\img\\meeting.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\office-dark.jpg",
+      "PackagePath": "staticwebassets\\img\\office-dark.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product-12.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\products\\product-1-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-1-min.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-11.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\products\\product-2-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-2-min.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\products\\product-3-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-3-min.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\products\\product-4-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-4-min.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\products\\product-5-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-5-min.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\products\\product-6-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-6-min.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\products\\product-7-min.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-7-min.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\products\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-details-1.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\products\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-details-2.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\products\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-details-3.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\products\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-details-4.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\products\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-details-5.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\bootstrap.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\creative-tim.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\creative-tim.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\devto.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\devto.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\github.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\github.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\google-webdev.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\google-webdev.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\icon-bulb.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\icon-bulb.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\logo-asana.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-asana.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\team-5.jpg",
+      "PackagePath": "staticwebassets\\img\\team-5.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\tesla-model-s.png",
+      "PackagePath": "staticwebassets\\img\\tesla-model-s.png"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\material-dashboard.js",
+      "PackagePath": "staticwebassets\\js\\material-dashboard.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\material-dashboard.js.map",
+      "PackagePath": "staticwebassets\\js\\material-dashboard.js.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\material-dashboard.min.js",
+      "PackagePath": "staticwebassets\\js\\material-dashboard.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\plugins\\countup.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\countup.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\plugins\\world.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\world.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjectFirst.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProjectFirst.props",
+      "PackagePath": "build\\ProjectFirst.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectFirst.props",
+      "PackagePath": "buildMultiTargeting\\ProjectFirst.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProjectFirst.props",
+      "PackagePath": "buildTransitive\\ProjectFirst.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

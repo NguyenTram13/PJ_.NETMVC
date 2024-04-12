@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProjectFirst",
+    "\\ProjectFirst\\Controllers",
+    "\\ProjectFirst\\Views",
+    "\\ProjectFirst\\Views\\Account",
+    "\\ProjectFirst\\Views\\Admin",
+    "\\ProjectFirst\\Views\\Home",
+    "\\ProjectFirst\\Views\\Shared"
+  ],
+  "SelectedNode": "\\ProjectFirst\\Views\\Account\\Register.cshtml",
+  "PreviewInSolutionExplorer": false
+}

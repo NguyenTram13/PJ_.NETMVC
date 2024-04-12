@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\ProjectFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Views\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\_LayoutLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Views\\Shared\\_LayoutLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Models\\Entities\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Models\\Entities\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Models\\UserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Models\\UserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Migrations\\AppDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Migrations\\AppDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Migrations\\20240409164532_Initial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Migrations\\20240409164532_Initial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Admin\\Dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Views\\Admin\\Dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Account\\InvalidLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Views\\Account\\InvalidLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\ViewModels\\RegisterVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\ViewModels\\RegisterVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\ViewModels\\LoginVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\ViewModels\\LoginVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Migrations\\20240409164532_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Migrations\\20240409164532_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\ProjectFirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\ProjectFirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\ProjectFirst\\ProjectFirst\\Models\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFirst\\Models\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 194,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ProjectFirst\\wwwroot\\js\\site.js",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ProjectFirst\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-11T15:13:03.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProjectFirst\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProjectFirst\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-11T15:11:29.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutLogin.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeDocumentMoniker": "ProjectFirst\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeToolTip": "ProjectFirst\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:03:51.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\Models\\Entities\\Employee.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "ProjectFirst\\Models\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:36:53.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\Models\\UserModel.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Models\\UserModel.cs",
+              "RelativeToolTip": "ProjectFirst\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:48:28.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProjectFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProjectFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:59:53.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProjectFirst\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProjectFirst\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:59:49.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProjectFirst\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ProjectFirst\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:52:17.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectFirst\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjectFirst\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T19:02:36.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProjectFirst\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:56:27.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240409164532_Initial.Designer.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Migrations\\20240409164532_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\Migrations\\20240409164532_Initial.Designer.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Migrations\\20240409164532_Initial.Designer.cs",
+              "RelativeToolTip": "ProjectFirst\\Migrations\\20240409164532_Initial.Designer.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:54:51.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ProjectFirst\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ProjectFirst\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T18:08:07.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ProjectFirst\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "ProjectFirst\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T18:03:26.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvalidLogin.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Account\\InvalidLogin.cshtml",
+              "RelativeDocumentMoniker": "ProjectFirst\\Views\\Account\\InvalidLogin.cshtml",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Account\\InvalidLogin.cshtml",
+              "RelativeToolTip": "ProjectFirst\\Views\\Account\\InvalidLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T18:01:22.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ProjectFirst\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ProjectFirst\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T17:59:19.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACoBAAAAAAAAAAASwDsBAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T17:55:05.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjectFirst\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjectFirst\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T15:23:54.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProjectFirst\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProjectFirst\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T15:19:44.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProjectFirst\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ProjectFirst\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T15:16:35.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "ProjectFirst\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:04:10.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\ViewModels\\LoginVM.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "ProjectFirst\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:03:36.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240409164532_Initial.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Migrations\\20240409164532_Initial.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\Migrations\\20240409164532_Initial.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Migrations\\20240409164532_Initial.cs",
+              "RelativeToolTip": "ProjectFirst\\Migrations\\20240409164532_Initial.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAQwKMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:45:32.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjectFirst\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:14:51.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ProjectFirst\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:14:50.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\Program.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Program.cs",
+              "RelativeToolTip": "ProjectFirst\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:04:53.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ProjectFirst\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAcwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:46:16.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProjectFirst.csproj",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\ProjectFirst.csproj",
+              "RelativeDocumentMoniker": "ProjectFirst\\ProjectFirst.csproj",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\ProjectFirst.csproj",
+              "RelativeToolTip": "ProjectFirst\\ProjectFirst.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T14:24:43.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectFirst\\appsettings.json",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\appsettings.json",
+              "RelativeToolTip": "ProjectFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T15:02:32.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\Program.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Program.cs",
+              "RelativeToolTip": "ProjectFirst\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:53:13.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProjectFirst\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:47:56.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "ProjectFirst\\Models\\AppUser.cs",
+              "ToolTip": "E:\\DotNet\\ProjectFirst\\ProjectFirst\\Models\\AppUser.cs",
+              "RelativeToolTip": "ProjectFirst\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:47:53.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
